@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ADD8E6;
+    font-family: Arial, sans-serif;
+    text-align: center; 
+}
+h1 {
+    font-size: 3rem;
+    color: #333;
+}
+#animal-container{
+display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin: 20px;
+ }
+.banner{
+    width: 100% ;
+}
+
+ 

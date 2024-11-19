@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+}
+.logar {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    width: 300px;
+}
+.logar h2 {
+    margin-bottom: 20px;
+}
+.logar label {
+    display: block;
+    text-align: left;
+    margin: 10px 0 5px;
+}
+.logar input {
+    width: calc(100% - 10px);
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.logar button {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+.logar button:hover {
+    background: black;
+}
+#mensagemerro {
+    color: black;
+    margin-top: 10px;
+}
